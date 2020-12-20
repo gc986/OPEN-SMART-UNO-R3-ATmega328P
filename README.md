@@ -20,9 +20,9 @@
 <h3>Распиновка</h3>
 <b>Кнопки:</b>
 <ul>
-  <li>K1 - D4</li>
-  <li>K2 - D3</li>
-  <li>K3 - D2</li>
+  <li>Key1 - D4</li>
+  <li>Key2 - D3</li>
+  <li>Key3 - D2</li>
 </ul>
 
 <b>Светодиоды:</b>
