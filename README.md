@@ -1,7 +1,10 @@
 # OPEN-SMART-UNO-R3-ATmega328P
 Мои заметки по альтернативной платформе Arduino "OPEN-SMART UNO R3 ATmega328P"
+
 1 - Внешний вид
+
 2 - Распиновка
+
 
 Ссылка на магазин (очищенная) - https://aliexpress.ru/item/32997990895.html
 
