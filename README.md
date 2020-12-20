@@ -20,18 +20,18 @@
 <h3>Распиновка</h3>
 <b>Кнопки:</b>
 <ul>
-  <li>Key1 - D4</li>
-  <li>Key2 - D3</li>
-  <li>Key3 - D2</li>
+  <li>Key1 - D4 (PD4)</li>
+  <li>Key2 - D3 (PD3)</li>
+  <li>Key3 - D2 (PD2)</li>
 </ul>
 
 <b>Светодиоды:</b>
 <ul>
-  <li>LED1 - D13</li>
-  <li>LED2 - D8</li>
-  <li>LED3 - D7</li>
+  <li>LED1 - D13 (PB5)</li>
+  <li>LED2 - D8 (PB0)</li>
+  <li>LED3 - D7 (PD7)</li>
 </ul>
 
-<b>Зуммер - D6</b>
+<b>Зуммер - D6 (PD6)</b>
 
 Всё остальное как на обычной "Arduino Uno"
