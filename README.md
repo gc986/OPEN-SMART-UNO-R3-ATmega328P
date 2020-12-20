@@ -1,12 +1,11 @@
 # OPEN-SMART-UNO-R3-ATmega328P
 Мои заметки по альтернативной платформе Arduino "OPEN-SMART UNO R3 ATmega328P"
+<ul>
+  <li>1 - Внешний вид</li>
+  <li>2 - Распиновка</li>
+</ul>
 
-1 - Внешний вид
-
-2 - Распиновка
-
-
-Ссылка на магазин (очищенная) - https://aliexpress.ru/item/32997990895.html
+<i>Ссылка на магазин (очищенная) - https://aliexpress.ru/item/32997990895.html</i>
 
 <h3>Внешний вид</h3>
 1.
@@ -27,9 +26,10 @@
 </ul>
 
 Светодиоды:
-
-LED1 - D13
-LED2 - D8
-LED3 - D7
+<ul>
+  <li>LED1 - D13</li>
+  <li>LED2 - D8</li>
+  <li>LED3 - D7</li>
+</ul>
 
 Зуммер - D6
